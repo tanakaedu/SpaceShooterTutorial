@@ -15,5 +15,8 @@
     - Asteroidの移動から 
 - [作業手順2_2](https://github.com/tanakaedu/SpaceShooterTutorial/wiki/%E6%89%8B%E9%A0%862_2:%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E5%88%B6%E5%BE%A1)
 - [作業手順3_1](https://github.com/tanakaedu/SpaceShooterTutorial/wiki/%E6%89%8B%E9%A0%863_1:%E9%9F%B3%E3%81%A8%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%AE%E5%AE%9F%E8%A3%85)
+
+## 4日目
 - [作業手順3_2](https://github.com/tanakaedu/SpaceShooterTutorial/wiki/%E6%89%8B%E9%A0%863_2:%E7%B5%82%E4%BA%86%E3%81%A8%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E6%A7%8B%E7%AF%89)
+- [作業手順4_1](https://github.com/tanakaedu/SpaceShooterTutorial/wiki/%E6%89%8B%E9%A0%864_1-Space-Shooter%E3%81%AE%E5%BC%B7%E5%8C%96)
 
